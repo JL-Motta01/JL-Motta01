@@ -2,8 +2,18 @@
 
 # Olá! Bem Vindes ao meu perfil!
 <center>
-    <p> 🌎 Estudante de Relações Internacionais 🌎 </p>
+    <p> Estudante de Relações Internacionais  🌎 </p>
     <p> Membro do LANTRI (Laboratório de Novas Tecnologias e Pesquisa em Relações Internacionais) </p>
+    <p> Pronomes: Ele/Elu/Ela ------- Pronouns: They/Them
+</center> 
+
+##
+
+### Redes Sociais:
+![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
+
+<center>  
 <table>
     <tr>
        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=JL-Motta01&theme=synthwave"/></td>
