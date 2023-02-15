@@ -22,7 +22,7 @@ Pronomes: Ele/Elu/Ela ------- Pronouns: They/Them
     <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Ae" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
     <img align="center" alt="PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-    <img align="center" alt="Unreal" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" class="filter-white">
+    <img align="center" alt="Unreal" height="30" width="40" src="https://github.com/JL-Motta01/JL-Motta01/blob/main/UE_Logo_icon-only_white.svg" class="filter-white">
 </div>
 
 ##
