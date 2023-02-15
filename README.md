@@ -1,8 +1,9 @@
 ![capa github](https://github.com/JL-Motta01/JL-Motta01/blob/main/JL.png?raw=true)  
 
+# Olá! Bem Vindes ao meu perfil!
 <center>
-🌎 Estudante de Relações Internacionais 🌎 
-Membro do LANTRI (Laboratório de novas tecnologias e pesquisa em relações internacionais)
+    <p> 🌎 Estudante de Relações Internacionais 🌎 </p>
+    <p> Membro do LANTRI (Laboratório de Novas Tecnologias e Pesquisa em Relações Internacionais) </p>
 <table>
     <tr>
        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=JL-Motta01&theme=synthwave"/></td>
